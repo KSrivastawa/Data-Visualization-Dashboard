@@ -13,13 +13,13 @@ Data Visualization Dashboard:
 
 Filters in the dashboard:
 -------------------------
--        Add end year filter in the dashboard
--        Add topics filters in the dashboard
--        Add sector filter in the dashboard
--        Add region filter in the dashboard
--        Add PEST filter in the dashboard
--        Add Source filter in the dashboard
--        Add SWOT filter in the dashboard
--        Country
--        City
+- Added end year filter in the dashboard
+- Added topics filters in the dashboard
+- Added sector filter in the dashboard
+- Added region filter in the dashboard
+- Added PEST filter in the dashboard
+- Added Source filter in the dashboard
+- Added SWOT filter in the dashboard
+- Country
+- City
 
